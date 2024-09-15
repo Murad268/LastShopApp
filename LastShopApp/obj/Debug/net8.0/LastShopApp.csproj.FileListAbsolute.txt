@@ -1,0 +1,14 @@
+C:\Users\TechEvo Computers\Desktop\LastShopApp\LastShopApp\bin\Debug\net8.0\LastShopApp.exe
+C:\Users\TechEvo Computers\Desktop\LastShopApp\LastShopApp\bin\Debug\net8.0\LastShopApp.deps.json
+C:\Users\TechEvo Computers\Desktop\LastShopApp\LastShopApp\bin\Debug\net8.0\LastShopApp.runtimeconfig.json
+C:\Users\TechEvo Computers\Desktop\LastShopApp\LastShopApp\bin\Debug\net8.0\LastShopApp.dll
+C:\Users\TechEvo Computers\Desktop\LastShopApp\LastShopApp\bin\Debug\net8.0\LastShopApp.pdb
+C:\Users\TechEvo Computers\Desktop\LastShopApp\LastShopApp\obj\Debug\net8.0\LastShopApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TechEvo Computers\Desktop\LastShopApp\LastShopApp\obj\Debug\net8.0\LastShopApp.AssemblyInfoInputs.cache
+C:\Users\TechEvo Computers\Desktop\LastShopApp\LastShopApp\obj\Debug\net8.0\LastShopApp.AssemblyInfo.cs
+C:\Users\TechEvo Computers\Desktop\LastShopApp\LastShopApp\obj\Debug\net8.0\LastShopApp.csproj.CoreCompileInputs.cache
+C:\Users\TechEvo Computers\Desktop\LastShopApp\LastShopApp\obj\Debug\net8.0\LastShopApp.dll
+C:\Users\TechEvo Computers\Desktop\LastShopApp\LastShopApp\obj\Debug\net8.0\refint\LastShopApp.dll
+C:\Users\TechEvo Computers\Desktop\LastShopApp\LastShopApp\obj\Debug\net8.0\LastShopApp.pdb
+C:\Users\TechEvo Computers\Desktop\LastShopApp\LastShopApp\obj\Debug\net8.0\LastShopApp.genruntimeconfig.cache
+C:\Users\TechEvo Computers\Desktop\LastShopApp\LastShopApp\obj\Debug\net8.0\ref\LastShopApp.dll
